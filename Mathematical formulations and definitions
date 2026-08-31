@@ -39,4 +39,4 @@ A visual representation of an individual trainee's current learning state.
 Courses are represented as bookshelves, topics as books, and topic-level progress as book thickness.
 
 7. Bookshelf B(c) :
-Represents course \(c\) currently being learned by the trainee.
+Represents course c currently being learned by the trainee.
