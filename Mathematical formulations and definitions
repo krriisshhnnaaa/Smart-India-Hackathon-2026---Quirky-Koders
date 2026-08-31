@@ -1,4 +1,4 @@
-Capacity Connect — Definitions & Mathematical Formulations
+# Capacity Connect — Definitions & Mathematical Formulations
 Definitions
 Introduction to the project
 
@@ -11,3 +11,32 @@ The system also provides two visual representations:
 Learning Room — represents an individual trainee's learning state.
 Learn-City — represents the larger trainee–trainer ecosystem.
 
+
+1. Trainee
+
+A user who enrolls in courses, attends lectures and completes assessments to develop specific competencies.
+
+2. Trainer
+
+A user who provides courses/lectures and possesses skills, certifications and professional experience that can be evaluated against course requirements.
+
+3. Course
+
+A structured learning program containing multiple topics and learning resources.
+
+4. Topic
+
+An individual concept or competency area within a course.
+
+5. Competency
+
+A measurable representation of a user's demonstrated knowledge or ability in a particular skill/topic.
+
+6. Learning Room
+
+A visual representation of an individual trainee's current learning state.
+
+Courses are represented as bookshelves, topics as books, and topic-level progress as book thickness.
+
+7. Bookshelf B(c) :
+Represents course \(c\) currently being learned by the trainee.
